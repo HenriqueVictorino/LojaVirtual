@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LojaVirtualDB;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 namespace LojaVirtual.Domain.Entities
 {
     [Table("TbProduto")]
-    class Produto
+    public class Produto
     {
         [Key]
         public int ID { get; set; }
@@ -24,5 +25,18 @@ namespace LojaVirtual.Domain.Entities
 
         [MaxLength(30)]
         public string Categoria { get; set; }
+
+        public IEnumerable<Produto> Produtos
+        {
+            get
+            {
+                using (LojaVirtualContext conn = new LojaVirtualContext())
+                {
+                    return conn.Produtos.ToList();
+                }
+            }
+        }
+
+
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Domain\bin\Debug\LojaVirtual.Domain.dll.config
+C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Domain\bin\Debug\LojaVirtual.Domain.dll
+C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Domain\bin\Debug\LojaVirtual.Domain.pdb
+C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Domain\obj\Debug\LojaVirtual.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Domain\obj\Debug\LojaVirtual.Domain.dll
+C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Domain\obj\Debug\LojaVirtual.Domain.pdb
+C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Domain\obj\Debug\LojaVirtual.Domain.Migrations.Init.resources
+C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Domain\obj\Debug\LojaVirtual.Domain.csproj.GenerateResource.Cache
