@@ -48,3 +48,5 @@ C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Web\bin\EntityFrame
 C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Web\obj\Debug\LojaVirtual.Web.csprojResolveAssemblyReference.cache
 C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Web\obj\Debug\LojaVirtual.Web.dll
 C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Web\obj\Debug\LojaVirtual.Web.pdb
+C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Henrique\Documents\Projects\LojaVirtual\LojaVirtual.Web\bin\EntityFramework.SqlServer.xml

@@ -13,8 +13,8 @@ namespace LojaVirtual.Web.Controllers
         public ActionResult Index()
         {
             Produtos = new Produto();
-            var Itens = Produtos.Produtos;
-            return View();
+            var Itens = Produtos.Produtos.Take(10);
+            return View(Itens);
         }
     }
 }
